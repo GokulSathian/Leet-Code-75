@@ -30,6 +30,7 @@ Each problem is solved using **Python** and saved with:
 | Day | Problem | Status |
 |-----|---------|--------|
 | 1️⃣ | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | ✅ Completed |
+| 2️⃣ | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) |✅Completed|
 | 🔜 | More coming... | 🚧 In Progress |
 
 > 📌 All code will be added here as the challenge continues — feel free to **watch/star** the repo to follow along!
