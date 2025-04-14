@@ -31,7 +31,7 @@ Each problem is solved using **Python** and saved with:
 |-----|---------|--------|
 | 1️⃣ | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | ✅ Completed |
 | 2️⃣ | [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) |✅Completed|
-| 3️⃣ | [1431. Kids With the Greatest Number of Candies  ](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/| ✅ Completed |
+| 3️⃣ | [1431. Kids With the Greatest Number of Candies ](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| ✅ Completed |
 | 🔜 | More coming... | 🚧 In Progress |
 
 > 📌 All code will be added here as the challenge continues — feel free to **watch/star** the repo to follow along!
