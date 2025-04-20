@@ -36,6 +36,7 @@ Each problem is solved using **Python** and saved with:
 | 5️⃣ | [ 345. Reverse Vowels of a String] (https://leetcode.com/problems/reverse-vowels-of-a-string/description)|✅Completed|
 | 6️⃣ | [ 151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description)|✅Completed|
 | 7️⃣ | [ 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description |✅Completed|
+| 8️⃣ | [ 334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description)|✅Completed|
 | 🔜 | More coming... | 🚧 In Progress |
 
 > 📌 All code will be added here as the challenge continues — feel free to **watch/star** the repo to follow along!
