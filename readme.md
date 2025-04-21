@@ -37,6 +37,7 @@ Each problem is solved using **Python** and saved with:
 | 6️⃣ | [ 151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description)|✅Completed|
 | 7️⃣ | [ 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description |✅Completed|
 | 8️⃣ | [ 334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description)|✅Completed|
+| 9️⃣ | [ 443. String Compression](https://leetcode.com/problems/string-compression/description)|✅Completed|
 | 🔜 | More coming... | 🚧 In Progress |
 
 > 📌 All code will be added here as the challenge continues — feel free to **watch/star** the repo to follow along!
