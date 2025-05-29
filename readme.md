@@ -39,6 +39,8 @@ Each problem is solved using **Python** and saved with:
 | 8️⃣ | [ 334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description)|✅Completed|
 | 9️⃣ | [ 443. String Compression](https://leetcode.com/problems/string-compression/description)|✅Completed|
 | 🔟 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description) | ✅ Completed|
+| 1️⃣1️⃣ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ Completed |
+
 | 🔜 | More coming... | 🚧 In Progress |
 
 > 📌 All code will be added here as the challenge continues — feel free to **watch/star** the repo to follow along!
