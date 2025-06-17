@@ -42,6 +42,8 @@ Each problem is solved using **Python** and saved with:
 | 1️⃣1️⃣ | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ Completed |
 | 1️⃣2️⃣ | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ✅ Completed |
 | 1️⃣3️⃣ | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | ✅ Completed |
+| 1️⃣4️⃣ | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | ✅ Completed |
+
 
 
 
